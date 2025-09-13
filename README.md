@@ -113,11 +113,3 @@ cd AQI-Prediction
 ## 🔹 Internship Note
 
 This project was developed as part of my **internship program**, applying **data science and machine learning** techniques to address real-world **environmental challenges**.
-
----
-
-```
-
-
-👉 Do you also want me to **design a fancy banner (image) for the top of the README** like `![header](...)` with AQI/earth theme so it looks visually professional on GitHub?
-```
